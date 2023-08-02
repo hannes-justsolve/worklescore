@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "wordlescore": {
+      "commandName": "Project",
+      "commandLineArgs": "2023-07-01\r\n20\r\nC:\\Users\\hanne\\Documents\\Work\\tmp\\Keep\\2023\\202308\\20230801\\Workle.txt"
+    }
+  }
+}
